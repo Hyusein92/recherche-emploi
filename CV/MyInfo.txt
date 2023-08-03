@@ -2,3 +2,6 @@ Francois
 Degrave
 09/07/1987
 ma.nouvelle.adresse@e.mail
+
+hobbies :
+Developpement
