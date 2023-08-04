@@ -5,4 +5,5 @@ ma.nouvelle.adresse@e.mail
 
 hobbies :
 Developpement
+Informatique
 Arts-martiaux
